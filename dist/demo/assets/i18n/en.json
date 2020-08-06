@@ -1,0 +1,53 @@
+{
+  "title": "Welcome to our website",
+  "block1": "Students have a job",
+  "block2": "Partner business",
+  "block3": "Students & Former Students",
+  "block4": "Basis",
+  "block5": "Nationwide training",
+  "block6": "Students have a job",
+  "home": "Home",
+  "category": "Category Schools",
+  "listschool": "List Schools",
+  "addschool": " Create Schools",
+  "edit": "Edit",
+  "delete": "Delete",
+  "school": "School",
+  "save": "Save & show",
+  "schoolform": "Manager Schools",
+  "detailClass": " Detail Schools",
+  "addclass": "Create Class",
+  "infclass": "Information Class",
+  "classform": " Manager Class",
+    "schoolentity":{
+    "name":"Name School",
+    "address":"Address",
+    "Principal":"Principal",
+    "State":"State",
+    "image":"Image"
+  },
+    "classentity":{
+    "name":"Class name",
+    "room":"Room Class",
+    "Total":"Total Student",
+    "idSchool":"Code School",
+    "teacher":"Teacher"
+  },
+    "language":"Language",
+     "validateSchool":{
+      "name": "Please enter the school name",
+      "logo": "Please enter the image path of the school",
+      "logoInvaild": "Wrong image format" ,
+      "address": "Please enter the school address",
+      "principal": "Please enter the Principal's name",
+      "city": "Please enter City"
+     },
+     "validateClass": {
+       "name": "Please enter the school name",
+       "roomnumber": "Please enter the classroom code",
+       "numberStudent": "Please enter student number",
+       "numberStudentInvaild": "The number of students must be large 0" ,
+        "teacher": "Please enter the Homeroom Teacher name",
+        "nameSchool": "Please select a School Name"
+     }
+}
